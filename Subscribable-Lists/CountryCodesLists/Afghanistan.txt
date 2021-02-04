@@ -3,8 +3,8 @@ badam.af
 events.af
 fhlcc.af
 inertia.af
-knu.edu.af
+knu.edu.af  // university
 long.af
 paypal-support.ace.af
 pharmaone.com.af
-razi.edu.af
+razi.edu.af // university
